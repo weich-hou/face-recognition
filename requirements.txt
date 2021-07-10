@@ -1,0 +1,8 @@
+仅供参考
+h5py==2.9.0
+Keras==2.3.1
+scipy==1.5.2
+numpy==1.19.5
+scikit-learn==0.24.1
+tensorflow==2.1.0
+opencv-python==4.5.1.48
